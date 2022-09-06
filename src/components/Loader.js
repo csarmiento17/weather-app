@@ -1,7 +1,9 @@
 import React from "react";
 
-const Loader = () => {
-  return <div className="lds-dual-ring"></div>;
-};
+class Loader extends React.Component {
+  render() {
+    return <div className="lds-dual-ring"></div>;
+  }
+}
 
 export default Loader;

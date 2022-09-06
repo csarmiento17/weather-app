@@ -1,12 +1,15 @@
-import "./styles/App.less";
+import React from "react";
 import Container from "./components/Container";
+import "./styles/App.less";
 
-function App() {
-  return (
-    <div className="App">
-      <Container />
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+        <Container />
+      </div>
+    );
+  }
 }
 
 export default App;
