@@ -10,5 +10,5 @@ REACT_APP_API_KEY=be56721f2765afd4e946bf6cc853af53
 ```
 
 ## Screenshots
-![Toronto](src/assets/TO.png)
+![Toronto](src/assets/TO.PNG)
 ![Error](src/assets/error.png)
