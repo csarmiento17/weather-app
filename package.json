@@ -2,7 +2,6 @@
   "name": "reactjs-weatherapp-aa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://csarmiento17.github.io/react-weatherapp",
   "engines": {
     "node": "10.17.0",
     "npm": "6.11.3"
